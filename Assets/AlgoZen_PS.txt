@@ -1,0 +1,55 @@
+Overview
+AlgoZen: Algorithmic Trading Competition
+AlgoZen is an exciting algorithmic trading competition where
+participants design, test, and refine trading strategies to
+maximize returns. Open to all college students, the event
+challenges teams to showcase their quantitative,
+programming, and analytical skills through backtesting and a
+final strategy pitch to experts.
+
+Eligibility
+All students from authorized institutions and programmes are
+eligible to participate.
+Team Size limit is minimum 1 and maximum 3 . The participants
+in a team may be from the same or different institutions and
+programmes.
+Students qualifying for the offline round must carry their valid
+School/College ID cards.
+
+Timeline
+Round 1 : Feb 15th
+Round 2 : Feb 22nd - Feb 28th
+Round 3 : March 14th
+
+Problem Statements
+Round 1: Online Qualifying Round
+Format: Online.
+Objective: Participants must play a quiz answering questions
+related to quantitative finance, trading, game theory etc...
+Round 2: Algorithm Development and Back-testing (Online)
+Format: The teams are required to design and implement a trading
+strategy on NIFTY 500 companies, using any one or a combination
+of financial instruments, under a fixed capital constraint, and
+submit their strategy code and backtest results for evaluation.
+Judging: A leaderboard will be formed based on each team’s
+returns as well as the quality and robustness of their trading
+strategy, and the top-performing teams will be selected.
+Final Round : Pitch Presentation (Offline)
+Objective : Top-performing teams pitch their strategies to a panel of
+judges.
+
+Submission Requirements & Deliverables
+A 5-minute pitch with a maximum of 15 slides covering:
+Executive summary of the trading strategy
+Description of the trading idea
+Implementation process
+Stress testing and risk management methodologies
+Event Manager: Hetkumar Patel (Mining 3rd year)
+SPOC
+Hetkumar Patel : 78620 77266
+hetkumar.patel.min23@itbhu.ac.in
+Siddharth Cilson: 93895 91121
+siddharth.cilson.phe24@itbhu.ac.in
+Prize Pool: 60,000+
+
+

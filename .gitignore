@@ -1,0 +1,7 @@
+**/*.csv
+.env
+node_modules/
+data/
+nifty500_pipeline/data/
+__pycache__/
+*.pyc
