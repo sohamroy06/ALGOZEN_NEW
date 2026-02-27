@@ -1,0 +1,18 @@
+{
+  "report_date": "2026-02-16T00:41:52.490139",
+  "metrics": {
+    "initial_rows": 1957659,
+    "final_rows": 1957570,
+    "duplicates_removed": 0,
+    "missing_values_filled": 4,
+    "tickers_processed": 500,
+    "date_range": {
+      "earliest": "2000-01-03",
+      "latest": "2026-02-13",
+      "total_days": 9538,
+      "trading_days": 6523
+    },
+    "data_quality_score": 100.0,
+    "average_years_of_data": 15.78
+  }
+}

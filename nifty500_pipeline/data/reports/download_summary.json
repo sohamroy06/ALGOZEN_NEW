@@ -1,0 +1,13 @@
+{
+  "download_date": "2026-02-16T00:37:31.344238",
+  "start_date": "2000-01-01",
+  "end_date": "2026-02-16",
+  "total_tickers": 501,
+  "successful_downloads": 500,
+  "failed_downloads": 1,
+  "success_rate": "99.80%",
+  "duration_seconds": 477.636646,
+  "failed_tickers": [
+    "KWIL.NS"
+  ]
+}
