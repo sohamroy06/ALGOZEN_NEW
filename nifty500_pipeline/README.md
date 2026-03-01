@@ -294,9 +294,7 @@ venv\Scripts\Activate.ps1
 
 ---
 
-## 🎓 For AlgoZen Competition
 
-This pipeline provides the foundation for **Round 2: Algorithm Development**.
 
 ### Next Steps:
 
@@ -354,12 +352,4 @@ Built for AlgoZen: Algorithmic Trading Competition
 
 ---
 
-## 📞 Support
 
-For AlgoZen competition queries, contact:
-- **Hetkumar Patel**: 78620 77266 | hetkumar.patel.min23@itbhu.ac.in
-- **Siddharth Cilson**: 93895 91121 | siddharth.cilson.phe24@itbhu.ac.in
-
----
-
-**Good luck with the competition! 🚀📈**
