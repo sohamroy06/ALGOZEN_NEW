@@ -333,9 +333,9 @@ openpyxl>=3.1.0
 ## 🤝 Contributing
 
 This project was built for the AlgoZen competition. Feel free to:
-- Fork and modify for your own strategies
-- Report issues or suggest improvements
-- Extend with additional data sources
+- Fork and modify for your own strategies . 
+- Report issues or suggest improvements . 
+- Extend with additional data sources .
 
 ---
 
