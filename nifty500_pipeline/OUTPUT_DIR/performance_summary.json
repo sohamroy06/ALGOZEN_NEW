@@ -1,0 +1,10 @@
+{
+  "CAGR": "21.84%",
+  "Sharpe_Ratio": "0.503",
+  "Sortino_Ratio": "1.428",
+  "Calmar_Ratio": "0.387",
+  "Max_Drawdown": "-56.44%",
+  "Win_Rate": "54.87%",
+  "Vol_Target_Opt": "0.1000",
+  "Size_Mult_Opt": "1.2000"
+}
